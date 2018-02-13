@@ -1,0 +1,74 @@
+# Taller 1 de IA
+# Presentado por: Andres Felipe Farfan Hernandez
+# temas: Calcular --> Mediana, Moda, Promedio, Varianza, Desviacion estandar
+# presentado a: Ing. Carlos Alberto Londoño
+# Curso : Inteligencia Artificial
+# Cotecnova
+
+import math
+
+vector = [10,30,30,2,3,5,6,7,10,70,4,5,6,5,4,8,7,5,0,9,7,6,30]
+print(vector)
+print ("cantidad de numeros ", len(vector))
+print("\n")
+#moda
+rep = 0
+for i in vector:
+    encontrar = vector.count(i)
+    if encontrar > rep:
+        rep = encontrar
+
+resmoda = []
+for i in vector:
+    encontrar = vector.count(i)
+    if encontrar == rep and i not in resmoda:
+        resmoda.append(i)
+
+print ("moda:", resmoda)
+
+#promedio
+promedio = sum(vector) / len(vector)
+print ("promedio del vector:", promedio)
+
+#mediana
+vector.sort()
+if len(vector) % 2 == 0:
+    w = len(vector)
+    mediana = ((vector[w//2-1] + vector[w// 2]) // 2)
+else:
+    mediana = vector[len(vector) // 2]
+print('\n')
+print ('mediana:', mediana)
+
+#varianza
+def mos_dato(vector):
+    for dato in vector:
+        print (dato)
+
+def vec_sum(vector):
+    tot = 0
+    for dato in vector:
+        tot += dato
+    return tot
+
+def vec_pro(vector):
+    sum_de_vec = vec_sum(vector)
+    pro = float(sum_de_vec) // len(vector)
+    return pro
+
+def vec_var(punt, pro):
+    sumatoria = 0
+    for info in punt:
+        sumatoria += (pro - float(info)) ** 2
+    var = float(sumatoria) // len(vector)
+    return var
+
+print('\n')
+print ('varianza:',vec_var(vector, vec_pro(vector)))
+
+#Desviasion Estandar
+
+des=vec_var(vector, vec_pro(vector))
+
+res_des = math.sqrt(des)
+print("Desviacion Estandar: ",res_des)

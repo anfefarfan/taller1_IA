@@ -1,0 +1,97 @@
+Taller No 1
+1.	Preguntas
+
+a.	Definir el termino de inteligencia artificial
+b.	Realizar un mapa mental con alguna herramienta online que represente la historia de la inteligencia artificial
+c.	Definir y diferenciar los 4 tipos de inteligencia artificial
+d.	¿Por qué estudiar inteligencia artificial?
+e.	Definir las ramas de la inteligencia artificial
+f.	Escribir un breve ensayo sobre su opinión personal acerca de la inteligencia artificial y su incidencia en su desarrollo de una sociedad, beneficios o problemas.
+
+2.	Implementar en lenguaje de programación de Python los siguientes algoritmos:
+a.	Mediana
+b.	Moda
+c.	Promedio
+d.	Varianza
+e.	Covarianza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definir el termino de inteligencia artificial
+La inteligencia artificial es un área multidisciplinaria que combina ramas de la ciencia como la lógica, la computación y la filosofía que se encarga de diseñar y crear entidades artificiales que son capaces de resolver problemas o realizar tareas por sí mismos, utilizando algoritmos y paradigmas de comportamiento humano.
+Inteligencia artificial es el concepto para máquinas que “piensan como seres humanos”; en otras palabras, que realizan tareas como: razonar, planificar, aprender y entender el lenguaje. Nadie espera que en la actualidad, o en un futuro cercano, una tecnología pueda igualar la inteligencia humana, pero la IA tiene grandes implicaciones en la forma en que vivimos nuestras vidas. El cerebro de la inteligencia artificial es una tecnología llamada aprendizaje automático, que está diseñada para hacer nuestro trabajo más fácil y productivo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mapa mental de la historia de la inteligencia artificial
+Link donde se puede visualizar el mapa: https://www.goconqr.com/es-ES/p/12193206
+
+ 
+
+Definir y diferenciar los 4 tipos de inteligencia artificial
+
+Sistemas que piensan como humanos: Trata de imitar el pensamiento humano; por ejemplo, las redes neuronales artificiales. La automatización de actividades que vinculamos con procesos de pensamiento humano, actividades como la toma de decisiones, resolución de problemas y aprendizaje.
+Sistemas que actúan como humanos: Tratan de imitar el comportamiento humano; por ejemplo, la robótica
+Sistemas que piensan racionalmente: Imitar la lógica humana, por ejemplo, los sistemas expertos. El estudio de los cálculos que hacen posible percibir, razonar y actuar.
+Sistemas que actúan racionalmente: Tratan de emular de forma racional el comportamiento humano; por ejemplo, los agentes inteligentes. Está relacionado con conductas inteligentes en artefactos.
+
+
+¿Por qué estudiar inteligencia artificial?
+Se debería de estudiar por apostarle al futuro, para lograr automatizar procesos el cual hoy en día son complicados o muy extensos, ya que reduciríamos el tiempo para realizar actividades o procesos, mejorando calidad de vida de muchos seres humanos.
+La IA se debe de utilizar para bien, ya que se empieza a implementar para ocasionar desastres ya sea de ámbito ambiental, social o informático, podría acabar con el mundo.
+
+Definir las ramas de la inteligencia artificial
+Las ramas son:
+Lógica difusa:
+Se desprende de la lógica clásica, donde el grado de las cosas tiene un papel fundamental a la hora de evaluar, ya que el razonamiento humano actúa con este tipo de información.
+Redes neurales artificiales:
+Son redes neuronales o neuro-redes, el cual son creadas para imitar la forma del procesamiento de la información como lo hace los sistemas nerviosos biológicos.
+Pueden realizar demasiadas operaciones simultáneamente a diferencia de los computadores porque trabajan de manera secuencial.
+
+
+Algoritmos genéticos:
+son algoritmos de optimización búsqueda y aprendizaje inspirados en los procesos de Evolución Natural y Evolución Genética, se parte de una población inicial de la cual se seleccionan los individuos más capacitados para luego reproducirlos y mutarlos para finalmente obtener la siguiente generación de individuos que estarán más adaptados que la anterior generación.
+
+ Ensayo de opinión personal de la inteligencia artificial y su incidencia en su desarrollo de una sociedad, beneficios o problemas.
+
+Introducción 
+En la era de la tecnología se habla de maquinas que pueden reemplazar a los seres humanos, el cual ha hecho que el hombre investigue y desarrolle conocimiento para abordar los cambios de la era tecnológica, donde se habla de una ciencia joven, la inteligencia artificial, el cual se trata de imitar el comportamiento humano artificialmente. Una ciencia donde hay relación con el ser humano, puede haber pros y contras en el desarrollo de este tipo de tecnología.
+Desarrollo
+Para el desarrollo de la sociedad, la inteligencia artificial está en muchos aspectos, nos podemos preguntar si en realidad ¿esta ciencia trae desarrollo?, no solo se habla de tecnología, si no de factores más sociales y culturales. El desarrollo de la inteligencia artificial trae tanto beneficios, como también problemas al paso del tiempo y que cada vez coge mas fuerza como ciencia y tecnología.
+Entre los beneficios están una alta precisión a la hora de automatizar procesos, procesamiento de datos, grandes avances en la medicina, mano de obra robótica o maquinas industriales, entretenimiento más realistas etc.
+Entre los problemas podemos encontrar, reemplazar la mano de obra humana por mano de obra robotizada, ya que para la persona del común seria perjudicarla y el desempleo crecería, otro problema serias sentimientos y emociones de los humanos, las maquinas no podrían obtener esta característica, otro problema seria la seguridad, ya que personas mal intencionadas podrían utilizar la inteligencia artificial en contra de los principios y volver un mundo caótico.
+Conclusión
+En el desarrollo de la inteligencia artificial se encuentra tanto beneficios, como problemas para una sociedad, pero siempre y cuando se le de un manejo y control correcto a esta ciencia, se puede sacar provecho para el bien de una sociedad.
